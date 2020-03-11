@@ -1,0 +1,6 @@
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\ByteBank\obj\Debug\ByteBank.pdb

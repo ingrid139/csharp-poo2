@@ -1,0 +1,10 @@
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\04-ByteBankRh\bin\Debug\netcoreapp3.1\04-ByteBankRh.exe
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\04-ByteBankRh\bin\Debug\netcoreapp3.1\04-ByteBankRh.deps.json
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\04-ByteBankRh\bin\Debug\netcoreapp3.1\04-ByteBankRh.runtimeconfig.json
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\04-ByteBankRh\bin\Debug\netcoreapp3.1\04-ByteBankRh.runtimeconfig.dev.json
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\04-ByteBankRh\bin\Debug\netcoreapp3.1\04-ByteBankRh.dll
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\04-ByteBankRh\bin\Debug\netcoreapp3.1\04-ByteBankRh.pdb
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\04-ByteBankRh\obj\Debug\netcoreapp3.1\04-ByteBankRh.AssemblyInfoInputs.cache
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\04-ByteBankRh\obj\Debug\netcoreapp3.1\04-ByteBankRh.AssemblyInfo.cs
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\04-ByteBankRh\obj\Debug\netcoreapp3.1\04-ByteBankRh.dll
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\04-ByteBankRh\obj\Debug\netcoreapp3.1\04-ByteBankRh.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\02-BBRh\obj\Debug\netcoreapp3.1\02-BBRh.AssemblyInfoInputs.cache
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\02-BBRh\obj\Debug\netcoreapp3.1\02-BBRh.AssemblyInfo.cs
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\02-BBRh\bin\Debug\netcoreapp3.1\02-BBRh.exe
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\02-BBRh\bin\Debug\netcoreapp3.1\02-BBRh.deps.json
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\02-BBRh\bin\Debug\netcoreapp3.1\02-BBRh.runtimeconfig.json
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\02-BBRh\bin\Debug\netcoreapp3.1\02-BBRh.runtimeconfig.dev.json
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\02-BBRh\bin\Debug\netcoreapp3.1\02-BBRh.dll
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\02-BBRh\bin\Debug\netcoreapp3.1\02-BBRh.pdb
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\02-BBRh\obj\Debug\netcoreapp3.1\02-BBRh.dll
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\02-BBRh\obj\Debug\netcoreapp3.1\02-BBRh.pdb

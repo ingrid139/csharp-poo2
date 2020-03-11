@@ -1,0 +1,11 @@
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\01-BBRh\bin\Debug\netcoreapp3.1\01-BBRh.exe
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\01-BBRh\bin\Debug\netcoreapp3.1\01-BBRh.deps.json
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\01-BBRh\bin\Debug\netcoreapp3.1\01-BBRh.runtimeconfig.json
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\01-BBRh\bin\Debug\netcoreapp3.1\01-BBRh.runtimeconfig.dev.json
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\01-BBRh\bin\Debug\netcoreapp3.1\01-BBRh.dll
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\01-BBRh\bin\Debug\netcoreapp3.1\01-BBRh.pdb
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\01-BBRh\obj\Debug\netcoreapp3.1\01-BBRh.csprojAssemblyReference.cache
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\01-BBRh\obj\Debug\netcoreapp3.1\01-BBRh.AssemblyInfoInputs.cache
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\01-BBRh\obj\Debug\netcoreapp3.1\01-BBRh.AssemblyInfo.cs
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\01-BBRh\obj\Debug\netcoreapp3.1\01-BBRh.dll
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo2-aula2\csharppoo2-aula2\01-BBRh\obj\Debug\netcoreapp3.1\01-BBRh.pdb
